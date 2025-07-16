@@ -3,7 +3,7 @@ This includes the 30 days acm challenge and my learning outcomes................
 
 
 
-YourRepo/
+
 │
 ├── Cycle_1_Clean_Data_Champions/
 │   ├── Day_01_Burnout_Breakdown.ipynb
