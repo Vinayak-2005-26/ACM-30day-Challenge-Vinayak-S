@@ -6,20 +6,20 @@ but now the concepts are clear.
 I have used
  
 
-#####isnull().sum()
+##### isnull().sum()
 
 
 to find the missed values but there was no such columns
 
 
-#####describe()
+##### describe()
 to find the statistical values to find the IQR.
 
 
 and used 
 
 
-#####quantile() 
+##### quantile() 
 
 to find the percentile and thereby finding the upper and lower limit 
 and found out the IQR.
@@ -31,13 +31,13 @@ this is how i have done the "Outliers"
 And plot the Graphs as well
 
 
-#####stress vs sleep &
+##### Stress vs Sleep &
 
 
-#####Age vs Burnout
+##### Age vs Burnout
 
 
 Regards,
 
 
-#####Vinayak
+##### Vinayak
